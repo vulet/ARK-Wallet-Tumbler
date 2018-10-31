@@ -1,4 +1,4 @@
-var newPath = "derivePath(\"\m/44'/111'/9'/0/"
+var newPath = "derivePath(\"\m/44'/111'/1'/0/"
 
 //If you wish to change networks, you should change the below settings along with the derive path
 //Please see https://github.com/ArkEcosystem/AIPs/issues/29 for path compliance
@@ -21,6 +21,7 @@ var incrementA = 1
 //tx fees
 var amountOriginal = 0.1;
 var amountfee = 1;
+var amountTo = null;
 var amountNew = (amountTo - .1);
 //number of tumbles
 var zerotumble = 1;

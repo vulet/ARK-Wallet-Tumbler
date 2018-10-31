@@ -36,3 +36,7 @@
 .front-content h3 {
   margin-top: 48px;
 }
+
+.line-break {
+    word-break: break-all;
+}
