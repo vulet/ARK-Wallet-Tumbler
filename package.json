@@ -13,7 +13,7 @@
   "author": "vul",
   "license": "GPL-3.0-only",
   "dependencies": {
-    "electron": "^3.0.3",
+    "electron": "^9.1.0",
     "arkjs": "github:arkecosystem/ark-js#master",
     "axios": "^0.18.0",
     "bip39": "^2.5.0"
